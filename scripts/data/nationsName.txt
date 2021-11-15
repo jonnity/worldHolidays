@@ -1,386 +1,193 @@
-アフガニスタン
-Afghanistan
-アルバニア
-Albania
-アルジェリア
-Algeria
-アンドラ
-Andorra
-アンゴラ
-Angola
-アンチグア・バーブーダ
-Antigua and Barbuda
-アルゼンチン
-Argentina
-アルメニア
-Armenia
-オーストラリア
-Australia
-オーストリア
-Austria
-アゼルバイジャン
-Azerbaijan
-バハマ
-Bahamas
-バーレーン
-Bahrain
-バングラデシュ
-Bangladesh
-バルバドス
-Barbados
-ベラルーシ
-Belarus
-ベルギー
-Belgium
-ベリーズ
-Belize
-ベナン
-Benin
-ブータン
-Bhutan
-ボリビア
-Bolivia　(Plurinational State of)
-ボスニア・ヘルツェゴビナ
-Bosnia and Herzegovina
-ボツワナ
-Botswana
-ブラジル
-Brazil
-ブルネイ
-Brunei Darussalam
-ブルガリア
-Bulgaria
-ブルキナファソ
-Burkina Faso
-ブルンジ
-Burundi
-カーボベルデ
-Cabo Verde
-カンボジア
-Cambodia
-カメルーン
-Cameroon
-カナダ
-Canada
-中央アフリカ共和国
-Central African Republic
-チャド
-Chad
-チリ
-Chile
-中国
-China
-コロンビア
-Colombia
-コモロ
-Comoros
-コンゴ
-Congo
-コスタリカ
-Costa Rica
-コートジボアール
-Cote D'Ivoire
-クロアチア
-Croatia
-キューバ
-Cuba
-キプロス
-Cyprus
-チェコ
-Czech Republic
-朝鮮民主主義人民共和国
-Democratic People's Republic of Korea
-コンゴ民主共和国
-Democratic Republic of the Congo
-デンマーク
-Denmark
-ジブチ
-Djibouti
-ドミニカ
-Dominica
-ドミニカ共和国
-Dominican Republic
-エクアドル
-Ecuador
-エジプト
-Egypt
-エルサルバドル
-El Salvador
-赤道ギニア
-Equatorial Guinea
-エリトリア
-Eritrea
-エストニア
-Estonia
-エスワティニ
-Eswatini
-エチオピア
-Ethiopia
-フィジ－
-Fiji
-フィンランド
-Finland
-フランス
-France
-ガボン
-Gabon
-ガンビア
-Gambia (Republic of the)
-ジョージア
-Georgia
-ドイツ
-Germany
-ガーナ
-Ghana
-ギリシャ
-Greece
-グレナダ
-Grenada
-グアテマラ
-Guatemala
-ギニア
-Guinea
-ギニアビサウ
-Guinea Bissau
-ガイアナ
-Guyana
-ハイチ
-Haiti
-ホンジュラス
-Honduras
-ハンガリ－
-Hungary
-アイスランド
-Iceland
-インド
-India
-インドネシア
-Indonesia
-イラン（回教共和国）
-Iran(Islamic Republic of)
-イラク
-Iraq
-アイルランド
-Ireland
-イスラエル
-Israel
-イタリア
-Italy
-ジャマイカ
-Jamaica
-日本
-Japan
-ヨルダン
-Jordan
-カザフスタン
-Kazakhstan
-ケニア
-Kenya
-キリバス
-Kiribati
-クウェート
-Kuwait
-キルギスタン
-Kyrgyzstan
-ラオス人民民主共和国
-Lao People's Democratic Republic
-ラトビア
-Latvia
-レバノン
-Lebanon
-レソト
-Lesotho
-リベリア
-Liberia
-リビア
-Libya
-リヒテンシュタイン
-Liechtenstein
-リトアニア
-Lithuania
-ルクセンブルク
-Luxembourg
-マダガスカル
-Madagascar
-マラウィ
-Malawi
-マレーシア
-Malaysia
-モルディブ
-Maldives
-マリ
-Mali
-マルタ
-Malta
-マーシャル諸島
-Marshall Islands
-モーリタニア
-Mauritania
-モーリシャス
-Mauritius
-メキシコ
-Mexico
-ミクロネシア連邦
-Micronesia(Federated States of)
-モナコ
-Monaco
-モンゴル
-Mongolia
-モンテネグロ
-Montenegro
-モロッコ
-Morocco
-モザンビーク
-Mozambique
-ミャンマー
-Myanmar
-ナミビア
-Namibia
-ナウル
-Nauru
-ネパール
-Nepal
-オランダ
-Netherlands
-ニュージーランド
-New Zealand
-ニカラグア
-Nicaragua
-ニジェール
-Niger
-ナイジェリア
-Nigeria
-北マケドニア
-North Macedonia
-ノルウェー
-Norway
-オマーン
-Oman
-パキスタン
-Pakistan
-パラオ
-Palau
-パナマ
-Panama
-パプア・ニューギニア
-Papua New Guinea
-パラグアイ
-Paraguay
-ペル－
-Peru
-フィリピン
-Philippines
-ポーランド
-Poland
-ポルトガル
-Portugal
-カタール
-Qatar
-韓国
-Republic of Korea
-モルドバ
-Republic of Moldova
-ルーマニア
-Romania
-ロシア連邦
-Russian Federation
-ルワンダ
-Rwanda
-セントクリストファー・ネイビス
-Saint Kitts and Nevis
-セントルシア
-Saint Lucia
-セントビンセントおよびグレナディーン諸島
-Saint Vincent and the Grenadines
-サモア
-Samoa
-サンマリノ
-San Marino
-サントメ・プリンシペ
-Sao Tome and Principe
-サウジアラビア
-Saudi Arabia
-セネガル
-Senegal
-セルビア
-Serbia
-セイシェル
-Seychelles
-シエラレオネ
-Sierra Leone
-シンガポール
-Singapore
-スロバキア
-Slovakia
-スロベニア
-Slovenia
-ソロモン諸島
-Solomon Islands
-ソマリア
-Somalia
-南アフリカ
-South Africa
-南スーダン
-South Sudan
-スペイン
-Spain
-スリランカ
-Sri Lanka
-スーダン
-Sudan
-スリナム
-Suriname
-スウェーデン
-Sweden
-スイス
-Switzerland
-シリア
-Syrian Arab Republic
-タジキスタン
-Tajikistan
-タイ
-Thailand
-東ティモール
-Timor-Leste
-トーゴ
-Togo
-トンガ
-Tonga
-トリニダード・トバゴ
-Trinidad and Tobago
-チュニジア
-Tunisia
-トルコ
-Turkey
-トルクメニスタン
-Turkmenistan
-ツバル
-Tuvalu
-ウガンダ
-Uganda
-ウクライナ
-Ukraine
-アラブ首長国連邦
-United Arab Emirates
-英国
-United Kingdom of Great Britain and Northern Ireland
-タンザニア
-United Republic of Tanzania
-米国
-United States of America
-ウルグアイ
-Uruguay
-ウズベキスタン
-Uzbekistan
-バヌアツ
-Vanuatu
-ベネズエラ
-Venezuela (Bolivarian Republic of)
-ベトナム
-Viet Nam
-イエメン
-Yemen
-ザンビア
-Zambia
-ジンバブエ
-Zimbabwe
+アフガニスタン, Afghanistan
+アルバニア, Albania
+アルジェリア, Algeria
+アンドラ, Andorra
+アンゴラ, Angola
+アンチグア・バーブーダ, Antigua and Barbuda
+アルゼンチン, Argentina
+アルメニア, Armenia
+オーストラリア, Australia
+オーストリア, Austria
+アゼルバイジャン, Azerbaijan
+バハマ, Bahamas
+バーレーン, Bahrain
+バングラデシュ, Bangladesh
+バルバドス, Barbados
+ベラルーシ, Belarus
+ベルギー, Belgium
+ベリーズ, Belize
+ベナン, Benin
+ブータン, Bhutan
+ボリビア, Bolivia　(Plurinational State of)
+ボスニア・ヘルツェゴビナ, Bosnia and Herzegovina
+ボツワナ, Botswana
+ブラジル, Brazil
+ブルネイ, Brunei Darussalam
+ブルガリア, Bulgaria
+ブルキナファソ, Burkina Faso
+ブルンジ, Burundi
+カーボベルデ, Cabo Verde
+カンボジア, Cambodia
+カメルーン, Cameroon
+カナダ, Canada
+中央アフリカ共和国, Central African Republic
+チャド, Chad
+チリ, Chile
+中国, China
+コロンビア, Colombia
+コモロ, Comoros
+コンゴ, Congo
+コスタリカ, Costa Rica
+コートジボアール, Cote D'Ivoire
+クロアチア, Croatia
+キューバ, Cuba
+キプロス, Cyprus
+チェコ, Czech Republic
+朝鮮民主主義人民共和国, Democratic People's Republic of Korea
+コンゴ民主共和国, Democratic Republic of the Congo
+デンマーク, Denmark
+ジブチ, Djibouti
+ドミニカ, Dominica
+ドミニカ共和国, Dominican Republic
+エクアドル, Ecuador
+エジプト, Egypt
+エルサルバドル, El Salvador
+赤道ギニア, Equatorial Guinea
+エリトリア, Eritrea
+エストニア, Estonia
+エスワティニ, Eswatini
+エチオピア, Ethiopia
+フィジー, Fiji
+フィンランド, Finland
+フランス, France
+ガボン, Gabon
+ガンビア, Gambia (Republic of the)
+ジョージア, Georgia
+ドイツ, Germany
+ガーナ, Ghana
+ギリシャ, Greece
+グレナダ, Grenada
+グアテマラ, Guatemala
+ギニア, Guinea
+ギニアビサウ, Guinea Bissau
+ガイアナ, Guyana
+ハイチ, Haiti
+ホンジュラス, Honduras
+ハンガリー, Hungary
+アイスランド, Iceland
+インド, India
+インドネシア, Indonesia
+イラン（回教共和国）, Iran(Islamic Republic of)
+イラク, Iraq
+アイルランド, Ireland
+イスラエル, Israel
+イタリア, Italy
+ジャマイカ, Jamaica
+日本, Japan
+ヨルダン, Jordan
+カザフスタン, Kazakhstan
+ケニア, Kenya
+キリバス, Kiribati
+クウェート, Kuwait
+キルギスタン, Kyrgyzstan
+ラオス人民民主共和国, Lao People's Democratic Republic
+ラトビア, Latvia
+レバノン, Lebanon
+レソト, Lesotho
+リベリア, Liberia
+リビア, Libya
+リヒテンシュタイン, Liechtenstein
+リトアニア, Lithuania
+ルクセンブルク, Luxembourg
+マダガスカル, Madagascar
+マラウィ, Malawi
+マレーシア, Malaysia
+モルディブ, Maldives
+マリ, Mali
+マルタ, Malta
+マーシャル諸島, Marshall Islands
+モーリタニア, Mauritania
+モーリシャス, Mauritius
+メキシコ, Mexico
+ミクロネシア連邦, Micronesia(Federated States of)
+モナコ, Monaco
+モンゴル, Mongolia
+モンテネグロ, Montenegro
+モロッコ, Morocco
+モザンビーク, Mozambique
+ミャンマー, Myanmar
+ナミビア, Namibia
+ナウル, Nauru
+ネパール, Nepal
+オランダ, Netherlands
+ニュージーランド, New Zealand
+ニカラグア, Nicaragua
+ニジェール, Niger
+ナイジェリア, Nigeria
+北マケドニア, North Macedonia
+ノルウェー, Norway
+オマーン, Oman
+パキスタン, Pakistan
+パラオ, Palau
+パナマ, Panama
+パプア・ニューギニア, Papua New Guinea
+パラグアイ, Paraguay
+ペルー, Peru
+フィリピン, Philippines
+ポーランド, Poland
+ポルトガル, Portugal
+カタール, Qatar
+韓国, Republic of Korea
+モルドバ, Republic of Moldova
+ルーマニア, Romania
+ロシア連邦, Russian Federation
+ルワンダ, Rwanda
+セントクリストファー・ネイビス, Saint Kitts and Nevis
+セントルシア, Saint Lucia
+セントビンセントおよびグレナディーン諸島, Saint Vincent and the Grenadines
+サモア, Samoa
+サンマリノ, San Marino
+サントメ・プリンシペ, Sao Tome and Principe
+サウジアラビア, Saudi Arabia
+セネガル, Senegal
+セルビア, Serbia
+セイシェル, Seychelles
+シエラレオネ, Sierra Leone
+シンガポール, Singapore
+スロバキア, Slovakia
+スロベニア, Slovenia
+ソロモン諸島, Solomon Islands
+ソマリア, Somalia
+南アフリカ, South Africa
+南スーダン, South Sudan
+スペイン, Spain
+スリランカ, Sri Lanka
+スーダン, Sudan
+スリナム, Suriname
+スウェーデン, Sweden
+スイス, Switzerland
+シリア, Syrian Arab Republic
+タジキスタン, Tajikistan
+タイ, Thailand
+東ティモール, Timor-Leste
+トーゴ, Togo
+トンガ, Tonga
+トリニダード・トバゴ, Trinidad and Tobago
+チュニジア, Tunisia
+トルコ, Turkey
+トルクメニスタン, Turkmenistan
+ツバル, Tuvalu
+ウガンダ, Uganda
+ウクライナ, Ukraine
+アラブ首長国連邦, United Arab Emirates
+英国, United Kingdom of Great Britain and Northern Ireland
+タンザニア, United Republic of Tanzania
+米国, United States of America
+ウルグアイ, Uruguay
+ウズベキスタン, Uzbekistan
+バヌアツ, Vanuatu
+ベネズエラ, Venezuela (Bolivarian Republic of)
+ベトナム, Viet Nam
+イエメン, Yemen
+ザンビア, Zambia
+ジンバブエ, Zimbabwe
