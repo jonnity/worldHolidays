@@ -5,11 +5,26 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "pwa-chrome",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}/src",
+      "runtimeArgs": ["--remote-debugging-port=9222"]
+    },
+
+    {
+      "name": "Run npm dev",
       "command": "npm run dev",
-      "name": "Run npm start",
       "cwd": "${workspaceFolder}/src",
       "request": "launch",
       "type": "node-terminal"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Full-stack",
+      "configurations": ["Run npm dev", "Launch Chrome"]
     }
   ]
 }

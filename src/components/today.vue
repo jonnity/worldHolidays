@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <span>{{ today }}.</span>
+      <p>{{ today }}.</p>
     </div>
     <div>
       <p>It is holiday in:</p>
@@ -27,6 +27,7 @@ export default defineComponent({
     };
   },
   mounted() {
+    const { $isEqualDate } = useNuxtApp();
     const countries = new Holidays().getCountries();
 
     const targetDate = new Date(this.today);
@@ -36,15 +37,11 @@ export default defineComponent({
       const countryHolidays = countryHolidaysReader.getHolidays(
         targetDate.getFullYear()
       );
-      const isHoliday = countryHolidaysReader.isHoliday(targetDate);
+      const holiday = countryHolidaysReader.isHoliday(targetDate);
 
-      if (isHoliday) {
+      if (holiday) {
         const countryName = countries[country];
-        const holidayName = countryHolidays.find(
-          (value) => new Date(value.date).getDate() == targetDate.getDate()
-        )?.name;
-        console.log(countryHolidays);
-
+        const holidayName = holiday[0].name;
         this.holidaysList.push({
           countryName: countryName,
           holidayName: holidayName,
