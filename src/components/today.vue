@@ -27,16 +27,12 @@ export default defineComponent({
     };
   },
   mounted() {
-    const { $isEqualDate } = useNuxtApp();
     const countries = new Holidays().getCountries();
 
     const targetDate = new Date(this.today);
     targetDate.setHours(0, 0, 0, 0);
     for (const country in countries) {
       const countryHolidaysReader = new Holidays(country);
-      const countryHolidays = countryHolidaysReader.getHolidays(
-        targetDate.getFullYear()
-      );
       const holiday = countryHolidaysReader.isHoliday(targetDate);
 
       if (holiday) {
