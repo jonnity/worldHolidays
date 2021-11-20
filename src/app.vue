@@ -1,5 +1,3 @@
 <template>
-  <div>
-    <today />
-  </div>
+  <NuxtPage />
 </template>
