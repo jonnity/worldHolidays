@@ -1,6 +1,8 @@
 <template>
+  <div v-if="loading" class="absolute left-0 top-0 z-50 m-0">
+    <loading />
+  </div>
   <div>
-    <!-- <loading /> -->
     <p class="text-center text-3xl font-black m-5">
       今日が休日の国もあります。みんなも休もう。
     </p>

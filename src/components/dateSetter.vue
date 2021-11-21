@@ -19,7 +19,7 @@
           "
         >
           <div class="flex flex-col px-6 py-5 bg-gray-50">
-            <p class="mb-2 font-semibold text-gray-700">Bots Message</p>
+            <p class="mb-2 font-semibold text-gray-700">日付を選択</p>
             <input type="date" :value="dateString" @change="onChange" />
             <hr />
           </div>
@@ -99,7 +99,7 @@
         >
           <img
             class="fill-current w-6 h-6 mr-2"
-            src="../assets/images/calender.svg"
+            src="~/assets/images/calender.svg"
             alt="カレンダー"
           />
           <span>別の日付で休む理由を探す</span>
