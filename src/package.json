@@ -6,6 +6,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
+    "@nuxt/kit": "^0.8.1-edge",
     "autoprefixer": "^10.4.0",
     "nuxi": "^0.10.1",
     "nuxt3": "latest",
