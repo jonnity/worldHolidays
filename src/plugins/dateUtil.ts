@@ -1,16 +1,22 @@
 import { defineNuxtPlugin } from "#app";
 
+const day = {
+  0: "日",
+  1: "月",
+  2: "火",
+  3: "水",
+  4: "木",
+  5: "金",
+  6: "土",
+} as const;
+
 export default defineNuxtPlugin((nuxt) => {
-  nuxt.provide("isEqualDate", (date1: Date, date2: Date) => {
-    if (date1.getFullYear() !== date2.getFullYear()) {
-      return false;
-    }
-    if (date1.getMonth() !== date2.getMonth()) {
-      return false;
-    }
-    if (date1.getDate() !== date2.getDate()) {
-      return false;
-    }
-    return true;
+  nuxt.provide("formatDateJapanese", (date: Date): string => {
+    let formatted = "";
+    formatted += date.getFullYear() + "年";
+    formatted += date.getMonth() + "月";
+    formatted += date.getDate() + "日";
+    formatted += " (" + day[date.getDay()] + ")";
+    return formatted;
   });
 });
