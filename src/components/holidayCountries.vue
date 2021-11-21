@@ -1,13 +1,19 @@
 <template>
-  <div>
-    <p class="text-center text-2xl font-black m-5">
-      今日が休日の国もあります。みんなも休もう。
-    </p>
-    <ul v-if="dateString">
-      <li v-for="holidayInfo in holidaysList" :key="holidayInfo.countryName">
-        {{ holidayInfo.countryName }} ({{ holidayInfo.holidayName }})
-      </li>
-    </ul>
+  <div class="text-center">
+    <div class="">
+      <div>
+        <ul v-if="dateString">
+          <li
+            v-for="holidayInfo in holidaysList"
+            :key="holidayInfo.countryName"
+          >
+            {{ holidayInfo.countryName }} は{{
+              holidayInfo.holidayName
+            }}でお休み
+          </li>
+        </ul>
+      </div>
+    </div>
   </div>
 </template>
 
