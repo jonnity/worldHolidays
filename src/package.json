@@ -18,5 +18,8 @@
     "@nuxtjs/tailwindcss": "^4.2.1",
     "date-fns": "^2.26.0",
     "date-holidays": "^3.12.1"
+  },
+  "engines": {
+    "node": "14.17.0"
   }
 }
